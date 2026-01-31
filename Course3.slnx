@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="constants/constants.vcxproj" Id="68fb842f-3266-465b-9913-701036196e60" />
+  <Project Path="data_types_and_sizes/data_types_and_sizes.vcxproj" Id="433093d6-ce51-4250-b9c4-8355d9a069ed" />
+  <Project Path="data_types_ranges/data_types_ranges.vcxproj" Id="c59366ff-0e28-48b1-9c82-212696c834ef" />
+  <Project Path="EscapeSequences/EscapeSequences.vcxproj" Id="4be79113-4f6c-45f0-8ddb-5a765ced7e40" />
+  <Project Path="HomeWork1.0/HomeWork1.0.vcxproj" Id="c9a8612f-df4b-49b9-892b-bb31f94d2c1c" />
+  <Project Path="HomeWork1.1/HomeWork1.1.vcxproj" Id="e1f75209-bd71-4917-86cb-04620a900391" />
+  <Project Path="HomeWork1.2/HomeWork1.2.vcxproj" Id="af622943-a11a-496b-aa68-9d838e5d6ef3" />
+  <Project Path="HomeWork1.3/HomeWork1.3.vcxproj" Id="afba7d7b-9945-4261-8414-c30220cd06cc" />
+  <Project Path="HomeWork2.0/HomeWork2.0.vcxproj" Id="d569a4e6-028d-48c6-a9b8-cbf60f522f41" />
+  <Project Path="HomeWork2.1/HomeWork2.1.vcxproj" Id="b5aa92bb-f84d-4fbd-9e76-7ceb9cbadba6" />
+  <Project Path="Homework2.2/Homework2.2.vcxproj" Id="d8a45cc8-5ee5-4ac8-ab8e-47375483b34b" />
+  <Project Path="homework_3.0/homework_3.0.vcxproj" Id="59be999d-acc9-4b01-9da4-efd8e9ed495b" />
+  <Project Path="homework_3.1/homework_3.1.vcxproj" Id="0d53cf30-72af-4b86-82b5-f79a7fdcf505" />
+  <Project Path="how_to_know_size_of_data_types/how_to_know_size_of_data_types.vcxproj" Id="b7be19fb-cfdc-4f8e-a55f-8931166a8caf" />
+  <Project Path="user_inputs/user_inputs.vcxproj" Id="341fb108-ac09-4c4e-afff-f534f59feb1c" />
+  <Project Path="Variables/Variables.vcxproj" Id="f38ba4ac-b3b1-45a5-86a2-468f7c654693" />
+  <Project Path="Variables2/Variables2.vcxproj" Id="746254b4-b2c4-4e13-9da5-826748c124ea" />
+</Solution>
