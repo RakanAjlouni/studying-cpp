@@ -6,12 +6,12 @@ using namespace std;
 int main()
 {
     
-    int MyAge;
+    unsigned short MyAge;
     MyAge = 45;
 
     cout << "My age is " << MyAge << " Years old." << endl << endl;
 
-    int myNumber = 52;
+    short myNumber = 52;
     float myFloatNumber = 7.84;
     double myDoubleNumber = 21.89822;
     char myLetter = '\'';

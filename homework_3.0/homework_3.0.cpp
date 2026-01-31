@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int num1, num2, num3;
+	unsigned short num1, num2, num3;
 
 
 
@@ -20,7 +20,7 @@ int main()
 
 	cout << "\n";
 
-	int total = num1 + num2 + num3;
+	unsigned short total = num1 + num2 + num3;
 
 
 	cout << "The total of numbers you entered is: \n";

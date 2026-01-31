@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	int x = 4;
-	int y = 10;
+	short x = 4;
+	short y = 10;
 	//int sum = x + y;
 
 	cout << x+y << endl << endl;

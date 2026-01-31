@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     char my_char;
-    int my_number;
+    short my_number;
 
     cout << "Please enter a char: \n";
     cin >> my_char;
