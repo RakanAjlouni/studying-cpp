@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../business_card/business_card/business_card.vcxproj" Id="bb5f345b-ee92-410f-aba7-cc753ce73028" />
+  <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="constants/constants.vcxproj" Id="68fb842f-3266-465b-9913-701036196e60" />
   <Project Path="data_types_and_sizes/data_types_and_sizes.vcxproj" Id="433093d6-ce51-4250-b9c4-8355d9a069ed" />
   <Project Path="data_types_ranges/data_types_ranges.vcxproj" Id="c59366ff-0e28-48b1-9c82-212696c834ef" />
