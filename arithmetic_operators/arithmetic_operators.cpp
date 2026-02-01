@@ -12,11 +12,5 @@ int main()
     cout << "A / B = " << A / B << "\n";
     cout << "A % B = " << A % B << "\n";
 
-
-
-
-
-
-
     return 0;
 }
