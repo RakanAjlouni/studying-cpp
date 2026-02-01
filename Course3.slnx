@@ -3,13 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../business_card/business_card/business_card.vcxproj" Id="bb5f345b-ee92-410f-aba7-cc753ce73028" />
-  <Project Path="../half_number/half_number/half_number.vcxproj" Id="9591e993-9330-4c57-aa03-97540c3555fd" />
   <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="constants/constants.vcxproj" Id="68fb842f-3266-465b-9913-701036196e60" />
   <Project Path="data_types_and_sizes/data_types_and_sizes.vcxproj" Id="433093d6-ce51-4250-b9c4-8355d9a069ed" />
   <Project Path="data_types_ranges/data_types_ranges.vcxproj" Id="c59366ff-0e28-48b1-9c82-212696c834ef" />
   <Project Path="EscapeSequences/EscapeSequences.vcxproj" Id="4be79113-4f6c-45f0-8ddb-5a765ced7e40" />
+  <Project Path="half_number/half_number/half_number.vcxproj" Id="9591e993-9330-4c57-aa03-97540c3555fd" />
   <Project Path="HomeWork1.0/HomeWork1.0.vcxproj" Id="c9a8612f-df4b-49b9-892b-bb31f94d2c1c" />
   <Project Path="HomeWork1.1/HomeWork1.1.vcxproj" Id="e1f75209-bd71-4917-86cb-04620a900391" />
   <Project Path="HomeWork1.2/HomeWork1.2.vcxproj" Id="af622943-a11a-496b-aa68-9d838e5d6ef3" />
