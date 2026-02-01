@@ -361,6 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/constants/constants.cpp
-/arithmetic_operators/arithmetic_operators.cpp
-/business_card
