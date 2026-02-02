@@ -23,6 +23,7 @@
   <Project Path="home_work_4.0/home_work_4.0.vcxproj" Id="e5da9580-6a31-46cf-a396-61da92c1c53b" />
   <Project Path="how_to_know_size_of_data_types/how_to_know_size_of_data_types.vcxproj" Id="b7be19fb-cfdc-4f8e-a55f-8931166a8caf" />
   <Project Path="sum_of_3_numbers/sum_of_3_numbers.vcxproj" Id="22593022-0d5b-4784-9b11-8dfc048b81c3" />
+  <Project Path="swap_numbers/swap_numbers.vcxproj" Id="62434f6d-5f87-4d13-b5c3-00658c8984b6" />
   <Project Path="user_inputs/user_inputs.vcxproj" Id="341fb108-ac09-4c4e-afff-f534f59feb1c" />
   <Project Path="Variables/Variables.vcxproj" Id="f38ba4ac-b3b1-45a5-86a2-468f7c654693" />
   <Project Path="Variables2/Variables2.vcxproj" Id="746254b4-b2c4-4e13-9da5-826748c124ea" />
