@@ -25,6 +25,7 @@
   <Project Path="rectangle_area/rectangle_area.vcxproj" Id="27673f7d-20c3-4984-b6bb-cd2b8f144054" />
   <Project Path="sum_of_3_numbers/sum_of_3_numbers.vcxproj" Id="22593022-0d5b-4784-9b11-8dfc048b81c3" />
   <Project Path="swap_numbers/swap_numbers.vcxproj" Id="62434f6d-5f87-4d13-b5c3-00658c8984b6" />
+  <Project Path="triangle_area/triangle_area.vcxproj" Id="64294080-3ef1-47e4-bc31-aadd6ccc5be3" />
   <Project Path="user_inputs/user_inputs.vcxproj" Id="341fb108-ac09-4c4e-afff-f534f59feb1c" />
   <Project Path="Variables/Variables.vcxproj" Id="f38ba4ac-b3b1-45a5-86a2-468f7c654693" />
   <Project Path="Variables2/Variables2.vcxproj" Id="746254b4-b2c4-4e13-9da5-826748c124ea" />
