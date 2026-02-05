@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="circle_area_along_the_circumference/circle_area_along_the_circumference.vcxproj" />
+</Solution>
