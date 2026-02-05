@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="circle_area_along_the_circumference.cpp">
+    <ClCompile Include="circle_area_inscribed_in_an_isosceles_triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

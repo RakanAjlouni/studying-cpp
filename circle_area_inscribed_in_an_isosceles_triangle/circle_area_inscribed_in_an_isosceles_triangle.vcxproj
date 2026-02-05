@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f8b5afd4-1f50-4b40-a378-e64571136416}</ProjectGuid>
-    <RootNamespace>circleareaalongthecircumference</RootNamespace>
+    <ProjectGuid>{56715df4-4bd9-4a82-8148-a15e94f98f8b}</ProjectGuid>
+    <RootNamespace>circleareainscribedinanisoscelestriangle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="circle_area_along_the_circumference.cpp" />
+    <ClCompile Include="circle_area_inscribed_in_an_isosceles_triangle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
