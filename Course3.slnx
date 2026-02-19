@@ -33,6 +33,7 @@
   <Project Path="service_fee_and_sales_tax/service_fee_and_sales_tax.vcxproj" Id="0d1fbdb9-f511-4439-bb38-80fc34a25c7f" />
   <Project Path="sum_of_3_numbers/sum_of_3_numbers.vcxproj" Id="22593022-0d5b-4784-9b11-8dfc048b81c3" />
   <Project Path="swap_numbers/swap_numbers.vcxproj" Id="62434f6d-5f87-4d13-b5c3-00658c8984b6" />
+  <Project Path="task_duration_in_seconds/task_duration_in_seconds.vcxproj" Id="f28d936b-352b-45a8-ab6f-58534440091c" />
   <Project Path="triangle_area/triangle_area.vcxproj" Id="64294080-3ef1-47e4-bc31-aadd6ccc5be3" />
   <Project Path="user_inputs/user_inputs.vcxproj" Id="341fb108-ac09-4c4e-afff-f534f59feb1c" />
   <Project Path="Variables/Variables.vcxproj" Id="f38ba4ac-b3b1-45a5-86a2-468f7c654693" />
