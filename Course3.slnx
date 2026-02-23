@@ -35,6 +35,7 @@
   <Project Path="power_of_2_3_4/power_of_2_3_4.vcxproj" Id="e1c940a9-7342-401c-afb0-508aae6e0eab" />
   <Project Path="prefix_vs_postfix/prefix_vs_postfix.vcxproj" Id="4e3b109c-6474-40c2-90cd-89aefa6681bb" />
   <Project Path="rectangle_area/rectangle_area.vcxproj" Id="27673f7d-20c3-4984-b6bb-cd2b8f144054" />
+  <Project Path="relational_operators/relational_operators.vcxproj" Id="49cbb558-79db-46c0-9607-16060d7940c4" />
   <Project Path="seconds_to_days_hours_minutes_seconds/seconds_to_days_hours_minutes_seconds.vcxproj" Id="a23f8002-b44a-4591-a7a2-779a94829ec8" />
   <Project Path="service_fee_and_sales_tax/service_fee_and_sales_tax.vcxproj" Id="0d1fbdb9-f511-4439-bb38-80fc34a25c7f" />
   <Project Path="sum_of_3_numbers/sum_of_3_numbers.vcxproj" Id="22593022-0d5b-4784-9b11-8dfc048b81c3" />
