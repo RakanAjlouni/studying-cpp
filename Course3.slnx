@@ -35,6 +35,7 @@
   <Project Path="monthly_loan_installment/monthly_loan_installment.vcxproj" Id="d635f2dd-4b99-4db6-a7aa-2feb66267223" />
   <Project Path="pay_remainder/pay_remainder.vcxproj" Id="d16b5e9d-3da6-4192-aeba-9dab50dfe109" />
   <Project Path="piggy_bank/piggy_bank.vcxproj" Id="9b0a5d5f-6df9-4e0a-b3c5-8f2f1dcb010e" />
+  <Project Path="power_math_function/power_math_function.vcxproj" Id="ccea7a3e-29b2-452c-a217-1dc423d007f6" />
   <Project Path="power_of_2_3_4/power_of_2_3_4.vcxproj" Id="e1c940a9-7342-401c-afb0-508aae6e0eab" />
   <Project Path="prefix_vs_postfix/prefix_vs_postfix.vcxproj" Id="4e3b109c-6474-40c2-90cd-89aefa6681bb" />
   <Project Path="rectangle_area/rectangle_area.vcxproj" Id="27673f7d-20c3-4984-b6bb-cd2b8f144054" />
