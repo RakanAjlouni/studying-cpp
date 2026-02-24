@@ -41,6 +41,7 @@
   <Project Path="relational_operators/relational_operators.vcxproj" Id="49cbb558-79db-46c0-9607-16060d7940c4" />
   <Project Path="seconds_to_days_hours_minutes_seconds/seconds_to_days_hours_minutes_seconds.vcxproj" Id="a23f8002-b44a-4591-a7a2-779a94829ec8" />
   <Project Path="service_fee_and_sales_tax/service_fee_and_sales_tax.vcxproj" Id="0d1fbdb9-f511-4439-bb38-80fc34a25c7f" />
+  <Project Path="sqrt_math_function/sqrt_math_function.vcxproj" Id="f823d7d7-3876-46c0-be52-f5421bb436f8" />
   <Project Path="sum_of_3_numbers/sum_of_3_numbers.vcxproj" Id="22593022-0d5b-4784-9b11-8dfc048b81c3" />
   <Project Path="swap_numbers/swap_numbers.vcxproj" Id="62434f6d-5f87-4d13-b5c3-00658c8984b6" />
   <Project Path="task_duration_in_seconds/task_duration_in_seconds.vcxproj" Id="f28d936b-352b-45a8-ab6f-58534440091c" />
