@@ -7,6 +7,7 @@
   <Project Path="assignment_operators/assignment_operators.vcxproj" Id="a7ffc980-7c92-4a43-a34f-ec8103018c1e" />
   <Project Path="average_of_3_marks/average_of_3_marks.vcxproj" Id="77220e17-75eb-4389-97c7-1485522d8d7f" />
   <Project Path="business_card/business_card.vcxproj" Id="bb5f345b-ee92-410f-aba7-cc753ce73028" />
+  <Project Path="ceil_and_floor_math_functions/ceil_and_floor_math_functions.vcxproj" Id="dad74d7e-3ea1-48a9-b570-e8da9e8714a8" />
   <Project Path="circle_area_along_the_circumference/circle_area_along_the_circumference.vcxproj" Id="f8b5afd4-1f50-4b40-a378-e64571136416" />
   <Project Path="circle_area_inscribed_in_an_isosceles_triangle/circle_area_inscribed_in_an_isosceles_triangle.vcxproj" Id="56715df4-4bd9-4a82-8148-a15e94f98f8b" />
   <Project Path="circle_area_inscribed_in_a_square/circle_area_inscribed_in_a_square.vcxproj" Id="64ef7e2f-182e-4ffa-a784-2d3f8a583b02" />
