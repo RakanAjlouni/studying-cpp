@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
@@ -12,9 +13,9 @@ int main()
 
     cout << "\n";
 
-    double circle_area_inscribed_in_an_isosceles_triangle = pi * ((b * b) / 4) * ((2 * a - b) / (2 * a + b));
+    double circle_area_inscribed_in_an_isosceles_triangle = pi * (pow(b, 2) / 4) * ((2 * a - b) / (2 * a + b));
 
-    cout << "Circle area inscribed in an isosceles triangle = " << circle_area_inscribed_in_an_isosceles_triangle << "\n";
+    cout << "Circle area inscribed in an isosceles triangle = " << floor(circle_area_inscribed_in_an_isosceles_triangle) << "\n";
 
 
     return 0;
