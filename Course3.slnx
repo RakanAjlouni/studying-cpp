@@ -11,6 +11,7 @@
   <Project Path="ceil_and_floor_math_functions/ceil_and_floor_math_functions.vcxproj" Id="dad74d7e-3ea1-48a9-b570-e8da9e8714a8" />
   <Project Path="circle_area/circle_area.vcxproj" Id="41b95da8-b354-40af-b3e8-8af42f144d60" />
   <Project Path="circle_area_along_the_circumference/circle_area_along_the_circumference.vcxproj" Id="f8b5afd4-1f50-4b40-a378-e64571136416" />
+  <Project Path="circle_area_described_around_an_arbitrary_triangle/circle_area_described_around_an_arbitrary_triangle.vcxproj" Id="9e4a67d4-b2ee-404b-9c7b-65c8b047813b" />
   <Project Path="circle_area_inscribed_in_an_isosceles_triangle/circle_area_inscribed_in_an_isosceles_triangle.vcxproj" Id="56715df4-4bd9-4a82-8148-a15e94f98f8b" />
   <Project Path="circle_area_inscribed_in_a_square/circle_area_inscribed_in_a_square.vcxproj" Id="64ef7e2f-182e-4ffa-a784-2d3f8a583b02" />
   <Project Path="circle_area_through_diameter/circle_area_through_diameter.vcxproj" Id="de282412-9293-417d-9d0c-805c43b210c0" />
