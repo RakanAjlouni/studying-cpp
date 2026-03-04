@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
@@ -11,9 +12,9 @@ int main()
     cin >> d;
     cout << "\n";
 
-    double circle_area_through_diameter = (pi * d * d) / 4;
+    double circle_area_through_diameter = (pi * pow(d, 2)) / 4;
 
-    cout << "Circle area through diameter = " << circle_area_through_diameter << "\n";
+    cout << "Circle area through diameter = " << ceil(circle_area_through_diameter) << "\n";
 
 
     return 0;
