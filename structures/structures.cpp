@@ -47,7 +47,7 @@ int main()
 
 
     cout << my_car1.brand << " " << my_car1.model << " " << my_car1.year << "\n";    
-    cout << my_car1.owner.full_name << " " << my_car1.owner.address.PoBOX << "\n\n";
+    cout << my_car1.owner.full_name << " " <<  my_car1.owner.address.PoBOX << "\n\n";
 
     cout << my_car2.brand << " " << my_car2.model << " " << my_car2.year << "\n";
             
