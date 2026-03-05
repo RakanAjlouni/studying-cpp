@@ -2,6 +2,9 @@
 using namespace std;
 
 
+enum gender { male, female };
+enum marital_status { single, married };
+enum color { blue, red, white, black };
 
 int main()
 {
@@ -10,8 +13,16 @@ int main()
 	string city;
 	string country;
 	float monthly_salary; 
-	char gender;
-	bool married;
+
+
+
+	gender user_gender;
+	marital_status user_marital_status;
+	color user_favorite_color;
+
+	user_gender = gender::male;
+	user_marital_status = marital_status::single;
+	user_favorite_color = color::black;
 
 	cout << "Please enter your name: \n";
 	cin >> name; 
@@ -28,12 +39,6 @@ int main()
 	cout << "Please enter your monthly salary: \n";	
 	cin >> monthly_salary;
 
-	cout << "Please enter your gender: \n";
-	cin >> gender;
-
-	cout << "Are you married? 1/0 \n";
-	cin >> married;
-
 	float yearly_salary = monthly_salary * 12;
 
 
@@ -44,8 +49,10 @@ int main()
 	cout << "Country: " << country << ".\n";
 	cout << "Monthly Salary: " << monthly_salary << "\n";
 	cout << "Yearly Salary: " << yearly_salary << "\n";
-	cout << "Gender: " << gender << "\n";
-	cout << "Married: " << married << "\n";
+	cout << "Gender: " << user_gender << "\n";
+	cout << "Married: " << user_marital_status << "\n";
+	cout << "Favorite Color: " << user_favorite_color << "\n";
+
 	cout << "*************************\n";
 	
 	return 0;
