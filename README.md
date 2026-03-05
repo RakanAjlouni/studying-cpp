@@ -12,7 +12,7 @@ This repository contains C++ practice code created while learning the language.
 ## Usage
 You can run the code using:
 - Any standard C++ compiler
-- Visual Studio Community 2022 (by creating a C++ Console App and adding the `.cpp` files)
+- Visual Studio Community (by creating a C++ Console App and adding the `.cpp` files)
 
 ## Status
 Work in progress.
