@@ -3,7 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../netsted_structers_and_enums/netsted_structers_and_enums/netsted_structers_and_enums.vcxproj" Id="85a225d3-43c3-4c49-840c-39fe453b99b2" />
   <Project Path="abs_math_function/abs_math_function.vcxproj" Id="213f465e-1144-4a28-bb64-25fadcf66151" />
   <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="assignment_operators/assignment_operators.vcxproj" Id="a7ffc980-7c92-4a43-a34f-ec8103018c1e" />
@@ -39,6 +38,7 @@
   <Project Path="loan_installment/loan_installment.vcxproj" Id="169222e7-68a0-4e7b-b889-ba0da39ab190" />
   <Project Path="logical_operators/logical_operators.vcxproj" Id="363cafae-8875-44bb-89f7-8602bcc873e9" />
   <Project Path="monthly_loan_installment/monthly_loan_installment.vcxproj" Id="d635f2dd-4b99-4db6-a7aa-2feb66267223" />
+  <Project Path="netsted_structers_and_enums/netsted_structers_and_enums.vcxproj" Id="85a225d3-43c3-4c49-840c-39fe453b99b2" />
   <Project Path="pay_remainder/pay_remainder.vcxproj" Id="d16b5e9d-3da6-4192-aeba-9dab50dfe109" />
   <Project Path="piggy_bank/piggy_bank.vcxproj" Id="9b0a5d5f-6df9-4e0a-b3c5-8f2f1dcb010e" />
   <Project Path="power_math_function/power_math_function.vcxproj" Id="ccea7a3e-29b2-452c-a217-1dc423d007f6" />
