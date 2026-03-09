@@ -20,6 +20,7 @@
   <Project Path="converting_numbers_to_strings/converting_numbers_to_strings.vcxproj" Id="a79bea9e-d856-4148-8c41-3228b498eea3" />
   <Project Path="converting_string_to_int_float_double/converting_string_to_int_float_double.vcxproj" Id="0877aeb6-2705-4905-8ca3-ecc476ababd5" />
   <Project Path="data_types_and_sizes/data_types_and_sizes.vcxproj" Id="433093d6-ce51-4250-b9c4-8355d9a069ed" />
+  <Project Path="data_types_conversion_homework/data_types_conversion_homework.vcxproj" Id="acb25c36-ccce-45b6-bc1c-ee4deb3f2958" />
   <Project Path="data_types_ranges/data_types_ranges.vcxproj" Id="c59366ff-0e28-48b1-9c82-212696c834ef" />
   <Project Path="enums/enums.vcxproj" Id="3376b108-4cbb-469f-ab55-9727723d15cf" />
   <Project Path="EscapeSequences/EscapeSequences.vcxproj" Id="4be79113-4f6c-45f0-8ddb-5a765ced7e40" />
