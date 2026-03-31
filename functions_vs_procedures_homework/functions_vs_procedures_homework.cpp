@@ -39,9 +39,9 @@ short my_sum_function()
 
 int main()
 {
-    
+
     my_sum_procedure();
-    cout << my_sum_function() + 10  << "\n\n";
+    cout << my_sum_function() + 10 << "\n\n";
 
 
     return 0;
