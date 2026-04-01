@@ -54,6 +54,7 @@
   <Project Path="power_of_2_3_4/power_of_2_3_4.vcxproj" Id="e1c940a9-7342-401c-afb0-508aae6e0eab" />
   <Project Path="power_of_m/power_of_m.vcxproj" Id="734caa47-0d2d-4a3d-b3e1-699621bf20ce" />
   <Project Path="prefix_vs_postfix/prefix_vs_postfix.vcxproj" Id="4e3b109c-6474-40c2-90cd-89aefa6681bb" />
+  <Project Path="print_name/print_name.vcxproj" Id="51fa39cb-874a-4c50-aeb7-e6df5eba5892" />
   <Project Path="read_strings_with_spaces/read_strings_with_spaces.vcxproj" Id="40e04199-d8e2-4dec-927f-30293d16b726" />
   <Project Path="rectangle_area/rectangle_area.vcxproj" Id="27673f7d-20c3-4984-b6bb-cd2b8f144054" />
   <Project Path="rectangle_area_through_diagonal_and_side_area/rectangle_area_through_diagonal_and_side_area.vcxproj" Id="7f4201b9-84f1-4815-8428-77b30ec2401b" />
