@@ -1,23 +1,30 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
-
-int main()
-{   
-    short number1, number2;
+void swap_numbers()
+{
+    short number1, number2, temp;
 
     cout << "Please enter two numbers: \n";
 
     cin >> number1 >> number2;
 
-    cout << "\n" << number1 << "\n" << number2 << "\n\n";
-    
-    short temp = number1;
-    number1 = number2, number2 = temp;
+    cout << "\nThis is your first number: " << number1 << "\nThis is your second number: " << number2 << "\n\n";
+
+    temp = number1;
+    number1 = number2;
+    number2 = temp;
 
 
-    cout << number1 << "\n" << number2 << "\n";
+    cout << "Here are your swapped numbers: \n\n" << number1 << "\n" << number2 << "\n";
 
+}
 
+int main()
+{
+
+    swap_numbers();
     return 0;
 }
