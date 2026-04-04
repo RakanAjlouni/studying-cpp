@@ -4,7 +4,7 @@
 
 using namespace std;
 
-double rectangle_area(double a, double d)
+double rectangle_area(unsigned short a, unsigned short d)
 {
     cout << "Rectangle area = ";
 
