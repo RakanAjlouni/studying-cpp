@@ -1,23 +1,27 @@
 #include <iostream>
 #include <cmath>
+#include <string>
+
 using namespace std;
 
+double rectangle_area(double a, double d)
+{
+    cout << "Rectangle area = ";
+
+    return (a * sqrt(pow(d, 2) - pow(a, 2)));
+}
 
 int main()
 {
     unsigned short a, d;
-    
-    cout << "Enter a and d: \n\n";
+
+    cout << "Enter a and d: \n";
 
     cin >> a >> d;
     cout << "\n";
 
-    double rectangle_area = a * sqrt(pow(d, 2) - pow(a, 2));
 
-    cout << "Rectangle area is: \n" << rectangle_area;
-
-
-
+    cout << rectangle_area(a, d) << "\n";
 
 
 
