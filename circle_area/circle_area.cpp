@@ -9,7 +9,7 @@ double circle_area(unsigned short r)
 {
     const double pi = 3.14;
 
-    cout << "Circle area through = ";
+    cout << "Circle area = ";
 
     return pi * pow(r, 2);
 
@@ -24,7 +24,7 @@ int main()
     cout << "\n";
 
 
-    cout << "Circle area through = " << circle_area(r) << "\n";
+    cout << circle_area(r) << "\n";
 
 
     return 0;
