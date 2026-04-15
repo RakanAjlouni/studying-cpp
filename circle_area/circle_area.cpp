@@ -18,7 +18,7 @@ int main()
 {
     unsigned short r;
 
-    cout << "Please enter D: \n";
+    cout << "Please enter R: \n";
 
     cin >> r;
     cout << "\n";
