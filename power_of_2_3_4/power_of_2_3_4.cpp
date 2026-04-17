@@ -1,8 +1,23 @@
 #include <iostream>
 #include <cmath>
+#include <string>
+
 using namespace std;
 
+unsigned short get_square(unsigned short number)
+{
+	return pow(number, 2);
+}
 
+unsigned short get_cube(unsigned short number)
+{
+	return pow(number, 3);
+}
+
+unsigned short get_fourth_power(unsigned short number)
+{
+	return pow(number, 4);
+}
 
 int main()
 {
@@ -12,11 +27,7 @@ int main()
 	cin >> number;
 	cout << "\n";
 
-	unsigned short number2 = pow(number, 2);
-	unsigned short number3 = pow(number, 3);
-	unsigned short number4 = pow(number, 4);
-
-	cout << round(number2) << "\n" << round(number3) << "\n" << round(number4) << "\n";
+	cout << get_square(number) << "\n" << get_cube(number) << "\n" << get_fourth_power(number) << "\n";
 
 
 	return 0;
