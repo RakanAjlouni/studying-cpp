@@ -1,8 +1,14 @@
 #include <iostream>
 #include <cmath>
+#include <string>
+
 using namespace std;
 
+unsigned int powered_number(unsigned int number, unsigned int power_of_it)
+{
 
+	return pow(number, power_of_it);
+}
 
 int main()
 {
@@ -13,9 +19,11 @@ int main()
 	cin >> number >> power_of_it;
 	cout << "\n";
 
-	unsigned int powered_number = pow(number, power_of_it);
 
-	cout << "Number " << number << " powered to " << power_of_it << " equals: " << round(powered_number) << endl;
+	// We handle the text here so it stays in order
+	cout << "Number = " << number << ", ";
+	cout << "Powered to = " << power_of_it << ", ";
+	cout << "Equals = " << powered_number(number, power_of_it) << endl;
 
 	return 0;
 }
