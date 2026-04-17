@@ -1,7 +1,12 @@
 #include <iostream>
 #include <cmath>
+
 using namespace std;
 
+double total_seconds(unsigned short days, unsigned short hours, unsigned short minutes, unsigned short seconds)
+{
+    return (days * 24 * pow(60, 2)) + (hours * pow(60, 2)) + (minutes * 60) + seconds;
+}
 
 int main()
 {
@@ -12,10 +17,8 @@ int main()
 
     cin >> days >> hours >> minutes >> seconds;
 
-    double total_seconds = (days * 24 * pow(60, 2)) + (hours * pow(60, 2)) + (minutes * 60) + seconds;
 
-    cout << "Total duration in seconds : " << round(total_seconds) << endl;
-
+    cout << "Total duration in seconds : " << total_seconds(days, hours, minutes, seconds) << endl;
 
 
     return 0;
