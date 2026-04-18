@@ -27,6 +27,7 @@
   <Project Path="functions/functions.vcxproj" Id="2dceccad-2f17-41ab-87dc-ac22103a5437" />
   <Project Path="functions_homework/functions_homework.vcxproj" Id="c5b92d31-debb-427d-b82d-6977ce9cfb34" />
   <Project Path="functions_vs_procedures_homework/functions_vs_procedures_homework.vcxproj" Id="d18ec632-9528-4163-878d-f911e98cb332" />
+  <Project Path="function_parameters_by_value_by_reference/function_parameters_by_value_by_reference.vcxproj" Id="295e6afc-8e48-401a-a2d4-d826a6fce7be" />
   <Project Path="getline_solution/getline_solution.vcxproj" Id="8cad16c1-499d-4c77-8e2f-d6d742c2c691" />
   <Project Path="half_number/half_number.vcxproj" Id="9591e993-9330-4c57-aa03-97540c3555fd" />
   <Project Path="HomeWork1.0/HomeWork1.0.vcxproj" Id="c9a8612f-df4b-49b9-892b-bb31f94d2c1c" />
