@@ -3,28 +3,33 @@
 
 using namespace std;
 
-void swap_numbers()
+void swap_numbers(short &number1,short &number2)
 {
-    short number1, number2, temp;
-
-    cout << "Please enter two numbers: \n";
-
-    cin >> number1 >> number2;
-
-    cout << "\nThis is your first number: " << number1 << "\nThis is your second number: " << number2 << "\n\n";
+    short temp;
 
     temp = number1;
     number1 = number2;
     number2 = temp;
-
-
-    cout << "Here are your swapped numbers: \n\n" << number1 << "\n" << number2 << "\n";
-
+    
+    cout << "After swap inside function number1 = " << number1 << ", number2 = " << number2 << endl;
 }
 
 int main()
 {
+    short number1, number2;
 
-    swap_numbers();
+    cout << "Please enter number1: \n";
+    cin >> number1;
+
+    cout << "Please enter number2: \n";
+    cin >> number2;
+
+    cout << "Before swapping number1 = " << number1 << ", B = " << number2 << endl;
+
+    swap_numbers(number1, number2);
+
+    cout << "After swapping inside main the number1 = " << number1 << ", B = " << number2 << endl;
+
+
     return 0;
 }
