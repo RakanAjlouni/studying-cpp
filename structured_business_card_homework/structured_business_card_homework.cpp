@@ -41,10 +41,10 @@ void read_info(id &info)
 	cout << "\nMonthly Salary: ";
 	cin >> info.monthly_salary;
 
-	cout << "\nGender: ";
+	cout << "\nGender (M/F): ";
 	cin >> info.gender;
 
-	cout << "\nMarried: ";
+	cout << "\nMarried (1 for yes, 0 for no): ";
 	cin >> info.married;
 
 	cout << "\nCity: ";
