@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
 struct struct_contact_info
@@ -28,43 +30,66 @@ struct id
 	struct_address address;
 };
 
+void read_info(id &info)
+{
+	cout << "Name: ";
+	getline(cin, info.name);
 
+	cout << "\nAge: ";
+	cin >> info.age;
+
+	cout << "\nMonthly Salary: ";
+	cin >> info.monthly_salary;
+
+	cout << "\nGender: ";
+	cin >> info.gender;
+
+	cout << "\nMarried: ";
+	cin >> info.married;
+
+	cout << "\nCity: ";
+	cin >> info.address.city;
+
+	cout << "\nCountry: ";
+	cin >> info.address.country;
+
+	cout << "\nStreet: ";
+	getline(cin >> ws, info.address.street);
+
+	cout << "\nEmail: ";
+	cin >> info.address.contact_info.email;
+
+	cout << "\nPhone number: ";
+	cin >> info.address.contact_info.phone_number;
+}
+
+void print_info(id info)
+{
+	info.yearly_salary = info.monthly_salary * 12;
+
+	cout << "***************\n\n";
+
+	cout << "Name: " << info.name << "\n";
+	cout << "Age: " << info.age << "\n";
+	cout << "Monthly Salary: " << info.monthly_salary << "\n";
+	cout << "Yearly  Salary: " << info.yearly_salary << "\n";
+	cout << "Gender: " << info.gender << "\n";
+	cout << "Married: " << info.married << "\n";
+	cout << "City: " << info.address.city << "\n";
+	cout << "Country: " << info.address.country << "\n";
+	cout << "Street: " << info.address.street << "\n";
+	cout << "Email: " << info.address.contact_info.email << "\n";
+	cout << "Phone number: " << info.address.contact_info.phone_number << "\n\n";
+
+	cout << "***************\n\n";
+
+}
 
 int main()
 {	
-	id business_card1;
-	
-	business_card1.name = "Rakan Ajlouni";
-	business_card1.age = 29;
-	business_card1.monthly_salary = 1500;
-	business_card1.yearly_salary;
-	business_card1.gender = 'M';
-	business_card1.married = 0;
-	business_card1.address.city = "Amman";
-	business_card1.address.country = "Jordan";
-	business_card1.address.street = "Firas Aj st.";
-	business_card1.address.contact_info.email = "rakan.ajlouni@gmail.com";
-	business_card1.address.contact_info.phone_number = "0777xxxxxx";
-
-
-	business_card1.yearly_salary = business_card1.monthly_salary * 12;
-
-	cout << "***************\n\n";
-
-	cout << "Name: " << business_card1.name << "\n";
-	cout << "Age: " << business_card1.age << "\n";
-	cout << "Monthly Salary: " << business_card1.monthly_salary << "\n";
-	cout << "Yearly  Salary: " << business_card1.yearly_salary << "\n";
-	cout << "Gender: " << business_card1.gender << "\n";
-	cout << "Married: " << business_card1.married << "\n";
-	cout << "City: " << business_card1.address.city << "\n";
-	cout << "Country: " << business_card1.address.country << "\n";
-	cout << "Street: " << business_card1.address.street << "\n";
-	cout << "Email: " << business_card1.address.contact_info.email << "\n";
-	cout << "Phone number: " << business_card1.address.contact_info.phone_number << "\n\n";
-
-	cout << "***************\n\n";
-
+	id person1;
+	read_info(person1);
+	print_info(person1);
 
 	return 0;
 }
