@@ -6,6 +6,7 @@
   <Project Path="abs_math_function/abs_math_function.vcxproj" Id="213f465e-1144-4a28-bb64-25fadcf66151" />
   <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="arrays/arrays.vcxproj" Id="8290cd43-1e8e-40a5-bd18-256de67567cd" />
+  <Project Path="array_homework/array_homework.vcxproj" Id="0c222dcb-fbbc-4541-8b88-79e0016e0e0f" />
   <Project Path="assignment_operators/assignment_operators.vcxproj" Id="a7ffc980-7c92-4a43-a34f-ec8103018c1e" />
   <Project Path="average_of_3_marks/average_of_3_marks.vcxproj" Id="77220e17-75eb-4389-97c7-1485522d8d7f" />
   <Project Path="business_card/business_card.vcxproj" Id="bb5f345b-ee92-410f-aba7-cc753ce73028" />
