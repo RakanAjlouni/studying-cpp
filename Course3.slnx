@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../hire_a_driver/hire_a_driver/hire_a_driver.vcxproj" Id="10381c33-05a3-4f32-81f4-9a69d623d19b" />
   <Project Path="abs_math_function/abs_math_function.vcxproj" Id="213f465e-1144-4a28-bb64-25fadcf66151" />
   <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="arrays/arrays.vcxproj" Id="8290cd43-1e8e-40a5-bd18-256de67567cd" />
