@@ -18,12 +18,6 @@ void read_info(struct_info& info)
 	cin >> info.driving_license;
 }
 
-void print_info(struct_info info)
-{
-	cout << "Age: " << info.age << "\n\n";
-	cout << "Driving license: " << info.driving_license << "\n\n";
-}
-
 int main()
 {
 	struct_info person1;
