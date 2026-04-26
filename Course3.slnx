@@ -56,6 +56,7 @@
   <Project Path="monthly_loan_installment/monthly_loan_installment.vcxproj" Id="d635f2dd-4b99-4db6-a7aa-2feb66267223" />
   <Project Path="netsted_structers_and_enums/netsted_structers_and_enums.vcxproj" Id="85a225d3-43c3-4c49-840c-39fe453b99b2" />
   <Project Path="parameters_inside_functions/parameters_inside_functions.vcxproj" Id="3c473b94-42b3-44f4-9b09-06107e961f01" />
+  <Project Path="pass_fail/pass_fail.vcxproj" Id="4d56c2eb-897d-47af-abf0-14673c68d8c0" />
   <Project Path="pay_remainder/pay_remainder.vcxproj" Id="d16b5e9d-3da6-4192-aeba-9dab50dfe109" />
   <Project Path="piggy_bank/piggy_bank.vcxproj" Id="9b0a5d5f-6df9-4e0a-b3c5-8f2f1dcb010e" />
   <Project Path="power_math_function/power_math_function.vcxproj" Id="ccea7a3e-29b2-452c-a217-1dc423d007f6" />
