@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../average_mark_pass_fail/average_mark_pass_fail/average_mark_pass_fail.vcxproj" Id="4b019434-0a6a-4b31-99cf-f191ea85ec35" />
   <Project Path="abs_math_function/abs_math_function.vcxproj" Id="213f465e-1144-4a28-bb64-25fadcf66151" />
   <Project Path="arithmetic_operators/arithmetic_operators.vcxproj" Id="ebcc130c-71e5-454c-8338-eed0e1681a4a" />
   <Project Path="arrays/arrays.vcxproj" Id="8290cd43-1e8e-40a5-bd18-256de67567cd" />
