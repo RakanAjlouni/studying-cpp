@@ -20,6 +20,7 @@
   <Project Path="circle_area_inscribed_in_an_isosceles_triangle/circle_area_inscribed_in_an_isosceles_triangle.vcxproj" Id="56715df4-4bd9-4a82-8148-a15e94f98f8b" />
   <Project Path="circle_area_inscribed_in_a_square/circle_area_inscribed_in_a_square.vcxproj" Id="64ef7e2f-182e-4ffa-a784-2d3f8a583b02" />
   <Project Path="circle_area_through_diameter/circle_area_through_diameter.vcxproj" Id="de282412-9293-417d-9d0c-805c43b210c0" />
+  <Project Path="conditional_statements_if_if_else/conditional_statements_if_if_else.vcxproj" Id="d2512a83-cbcc-4df5-abab-32ce2fc8ba7f" />
   <Project Path="constants/constants.vcxproj" Id="68fb842f-3266-465b-9913-701036196e60" />
   <Project Path="converting_double_to_integer/converting_double_to_integer.vcxproj" Id="7db23bb4-ffa5-4e39-a38f-949aea2d74df" />
   <Project Path="converting_numbers_to_strings/converting_numbers_to_strings.vcxproj" Id="a79bea9e-d856-4148-8c41-3228b498eea3" />
