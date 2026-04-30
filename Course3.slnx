@@ -22,6 +22,7 @@
   <Project Path="circle_area_inscribed_in_an_isosceles_triangle/circle_area_inscribed_in_an_isosceles_triangle.vcxproj" Id="56715df4-4bd9-4a82-8148-a15e94f98f8b" />
   <Project Path="circle_area_inscribed_in_a_square/circle_area_inscribed_in_a_square.vcxproj" Id="64ef7e2f-182e-4ffa-a784-2d3f8a583b02" />
   <Project Path="circle_area_through_diameter/circle_area_through_diameter.vcxproj" Id="de282412-9293-417d-9d0c-805c43b210c0" />
+  <Project Path="conditional_else_if_statement/conditional_else_if_statement.vcxproj" Id="a3930c47-dd58-484d-8986-abc669c8e1d4" />
   <Project Path="conditional_statements_if_if_else/conditional_statements_if_if_else.vcxproj" Id="d2512a83-cbcc-4df5-abab-32ce2fc8ba7f" />
   <Project Path="constants/constants.vcxproj" Id="68fb842f-3266-465b-9913-701036196e60" />
   <Project Path="converting_double_to_integer/converting_double_to_integer.vcxproj" Id="7db23bb4-ffa5-4e39-a38f-949aea2d74df" />
@@ -37,6 +38,7 @@
   <Project Path="functions_vs_procedures_homework/functions_vs_procedures_homework.vcxproj" Id="d18ec632-9528-4163-878d-f911e98cb332" />
   <Project Path="function_parameters_by_value_by_reference/function_parameters_by_value_by_reference.vcxproj" Id="295e6afc-8e48-401a-a2d4-d826a6fce7be" />
   <Project Path="getline_solution/getline_solution.vcxproj" Id="8cad16c1-499d-4c77-8e2f-d6d742c2c691" />
+  <Project Path="grades/grades.vcxproj" Id="e5a67c7c-ea61-447e-94b5-a07d0cfe053f" />
   <Project Path="half_number/half_number.vcxproj" Id="9591e993-9330-4c57-aa03-97540c3555fd" />
   <Project Path="hire_a_driver/hire_a_driver.vcxproj" Id="10381c33-05a3-4f32-81f4-9a69d623d19b" />
   <Project Path="HomeWork1.0/HomeWork1.0.vcxproj" Id="c9a8612f-df4b-49b9-892b-bb31f94d2c1c" />
