@@ -32,6 +32,7 @@
   <Project Path="data_types_and_sizes/data_types_and_sizes.vcxproj" Id="433093d6-ce51-4250-b9c4-8355d9a069ed" />
   <Project Path="data_types_conversion_homework/data_types_conversion_homework.vcxproj" Id="acb25c36-ccce-45b6-bc1c-ee4deb3f2958" />
   <Project Path="data_types_ranges/data_types_ranges.vcxproj" Id="c59366ff-0e28-48b1-9c82-212696c834ef" />
+  <Project Path="day_of_week/day_of_week.vcxproj" Id="d0e1445d-59f6-440c-8713-100ade9baee8" />
   <Project Path="enums/enums.vcxproj" Id="3376b108-4cbb-469f-ab55-9727723d15cf" />
   <Project Path="EscapeSequences/EscapeSequences.vcxproj" Id="4be79113-4f6c-45f0-8ddb-5a765ced7e40" />
   <Project Path="functions/functions.vcxproj" Id="2dceccad-2f17-41ab-87dc-ac22103a5437" />
