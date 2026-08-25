@@ -97,4 +97,5 @@
   <Project Path="D:/ProgrammingAdvicesRoadMap/FirstCPPCourse/Course3/Variables/Variables.vcxproj" Id="f38ba4ac-b3b1-45a5-86a2-468f7c654693" />
   <Project Path="D:/ProgrammingAdvicesRoadMap/FirstCPPCourse/Course3/Variables2/Variables2.vcxproj" Id="746254b4-b2c4-4e13-9da5-826748c124ea" />
   <Project Path="D:/ProgrammingAdvicesRoadMap/FirstCPPCourse/Course3/variable_scope_local_global/variable_scope_local_global.vcxproj" Id="142b65f6-398c-4521-b2fe-1221e9f1017d" />
+  <Project Path="enums_with_if_statements_countries/enums_with_if_statements_countries.vcxproj" Id="96e8d715-9eca-40cc-907c-78a3ebbf5642" />
 </Solution>
