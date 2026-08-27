@@ -100,4 +100,5 @@
   <Project Path="enums_with_if_statements_countries/enums_with_if_statements_countries.vcxproj" Id="96e8d715-9eca-40cc-907c-78a3ebbf5642" />
   <Project Path="enums_with_switch_case_statement/enums_with_switch_case_statement.vcxproj" Id="e0c41fd3-b6f4-41c9-928b-2ca9ddbe7bbc" />
   <Project Path="switch_case_statement/switch_case_statement.vcxproj" Id="d0686ec8-4d41-4969-a3ae-7355e37d1fbf" />
+  <Project Path="switch_case_statement_countries/switch_case_statement_countries.vcxproj" Id="28f51bbf-6b5b-41e8-bcab-7adbf24f759f" />
 </Solution>
