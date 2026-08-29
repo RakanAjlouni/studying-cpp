@@ -23,25 +23,18 @@ void read_info(struct_info& info)
 
 double get_calculation(struct_info& info)
 {
-	if (info.operation_type == '+')
+	switch (info.operation_type)
 	{
+	case '+':
 		return info.number1 + info.number2;
-	}
-	else if (info.operation_type == '-')
-	{
+	case '-':
 		return info.number1 - info.number2;
-	}
-	else if (info.operation_type == '*')
-	{
+	case '*':
 		return info.number1 * info.number2;
-	}
-	else if (info.operation_type == '/')
-	{
+	case '/':
 		return (double)info.number1 / info.number2;
-	}
-	else
-	{
-		cout << "Wrong operation Type";
+	default:
+		cout << "Wrong operation Type\n";
 		return 0;
 	}
 }
