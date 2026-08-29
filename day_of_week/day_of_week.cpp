@@ -4,36 +4,30 @@ using namespace std;
 
 void print_day(int day_number)
 {
-	if (day_number == 1)
+	switch (day_number)
 	{
+	case 1:
 		cout << "Sunday\n";
-	}
-	else if (day_number == 2)
-	{
+		break;
+	case 2:
 		cout << "Monday\n";
-	}
-	else if (day_number == 3)
-	{
+		break;
+	case 3:
 		cout << "Tuesday\n";
-	}
-	else if (day_number == 4)
-	{
+		break;
+	case 4:
 		cout << "Wednesday\n";
-	}
-	else if (day_number == 5)
-	{
+		break;
+	case 5:
 		cout << "Thursday\n";
-	}
-	else if (day_number == 6)
-	{
+		break;
+	case 6:
 		cout << "Friday\n";
-	}
-	else if (day_number == 7)
-	{
+		break;
+	case 7:
 		cout << "Staturday\n";
-	}
-	else
-	{
+		break;
+	default:
 		cout << "Wrong day number, try again!\n";
 	}
 }
