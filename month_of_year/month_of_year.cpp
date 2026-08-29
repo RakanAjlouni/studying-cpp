@@ -4,57 +4,46 @@ using namespace std;
 
 void print_month(int month_number)
 {
-	if (month_number == 1)
+	switch (month_number)
 	{
+	case 1:
 		cout << "January\n";
-	}
-	else if (month_number == 2)
-	{
+		break;
+	case 2:
 		cout << "February\n";
-	}
-	else if (month_number == 3)
-	{
+		break;
+	case 3:
 		cout << "March\n";
-	}
-	else if (month_number == 4)
-	{
+		break;
+	case 4:
 		cout << "April\n";
-	}
-	else if (month_number == 5)
-	{
+		break;
+	case 5:
 		cout << "May\n";
-	}
-	else if (month_number == 6)
-	{
+		break;
+	case 6:
 		cout << "June\n";
-	}
-	else if (month_number == 7)
-	{
+		break;
+	case 7:
 		cout << "July\n";
-	}
-	else if (month_number == 8)
-	{
+		break;
+	case 8:
 		cout << "August\n";
-	}
-	else if (month_number == 9)
-	{
+		break;
+	case 9:
 		cout << "September\n";
-	}
-	else if (month_number == 10)
-	{
+		break;
+	case 10:
 		cout << "October\n";
-	}
-	else if (month_number == 11)
-	{
+		break;
+	case 11:
 		cout << "November\n";
-	}
-	else if (month_number == 12)
-	{
+		break;
+	case 12:
 		cout << "December\n";
-	}
-	else
-	{
-		cout << "Wrong day number, try again!\n";
+		break;
+	default:
+		cout << "Wrong month number, try again!\n";
 	}
 }
 
