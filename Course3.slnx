@@ -102,6 +102,7 @@
   <Project Path="for_loop/for_loop.vcxproj" Id="2c4dda1d-2891-490e-9615-47d14a8b5fb7" />
   <Project Path="nested_functions_with_enums/nested_functions_with_enums.vcxproj" Id="047e65cb-d6d5-4241-b7b1-8a0bb9667868" />
   <Project Path="print_numbers_from_1_to_n/print_numbers_from_1_to_n.vcxproj" Id="dd03ed7f-5a68-4db2-a1e1-0e924c80b520" />
+  <Project Path="print_numbers_from_n_to_1/print_numbers_from_n_to_1.vcxproj" Id="01986435-0909-4d52-8dfd-f8490692ab19" />
   <Project Path="switch_case_statement/switch_case_statement.vcxproj" Id="d0686ec8-4d41-4969-a3ae-7355e37d1fbf" />
   <Project Path="switch_case_statement_countries/switch_case_statement_countries.vcxproj" Id="28f51bbf-6b5b-41e8-bcab-7adbf24f759f" />
 </Solution>
